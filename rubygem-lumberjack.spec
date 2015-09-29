@@ -4,7 +4,7 @@
 #
 Name     : rubygem-lumberjack
 Version  : 1.0.9
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/lumberjack-1.0.9.gem
 Source0  : https://rubygems.org/downloads/lumberjack-1.0.9.gem
 Summary  : No detailed summary available
